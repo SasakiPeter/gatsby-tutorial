@@ -60,4 +60,4 @@ typings/
 .cache/
 public
 yarn-error.log
-*.jpg
+
